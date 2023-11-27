@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(16, 33, 196, 0.8);
+    background-image: url(img/fundo.jpg);
+}
+
+#imagens {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+img{
+    margin-top: 5vh;
+}
